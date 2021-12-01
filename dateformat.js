@@ -1,3 +1,4 @@
+// Date formate Validation
 var n="7-30-2000"
 d=n.split("-")
 MM=Number(d[0])
